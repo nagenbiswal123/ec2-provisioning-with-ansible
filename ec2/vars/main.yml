@@ -1,0 +1,7 @@
+---
+# vars file for ec2
+
+#type: t2.micro
+region: ap-south-1
+image: ami-0f918f7e67a3323f0
+sc_group: default
